@@ -1,0 +1,16 @@
+{
+  "name": "Tron Gridlock",
+  "revisionLabel": "Tron Gridlock",
+  "description": "Polished Tron-style Traffic Jam reskin with procedural glow styling and curated synthwave/electronic audio.",
+  "mode": "Universal",
+  "exportDate": "2026-03-11T22:35:34.422Z",
+  "assetCount": 16,
+  "assetTypes": [
+    "html",
+    "js",
+    "css",
+    "png",
+    "wav",
+    "mp3"
+  ]
+}
